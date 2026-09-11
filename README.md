@@ -74,3 +74,9 @@ Superstore operates across multiple regions, product categories, and customer se
 
 ## 6. Conclusion
 The Superstore dataset reveals a business with steady growth, strong consumer-driven sales, and profitable categories in Furniture and Office Supplies. However, regional disparities and margin challenges in Technology highlight areas for improvement. By focusing on margin optimization, regional problem-solving, and segment diversification, Superstore can unlock higher profitability and sustain long-term growth.
+
+## 7. Dashboard
+<img width="1376" height="765" alt="image" src="https://github.com/user-attachments/assets/d53f52b3-69b1-4f72-9deb-c2b117b6bb72" />
+---
+<img width="1367" height="767" alt="image" src="https://github.com/user-attachments/assets/34d65e75-dd9c-46d9-9ea6-af2ef201525c" />
+
